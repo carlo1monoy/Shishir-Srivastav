@@ -56,7 +56,8 @@ Explore the features and screens of the CaffioLens coffee identification applica
 
 ### 📱 Home Dashboard
 
-![Home Screen](./screenshots/home_screen.png)
+
+![Home Screen](<img width="1916" height="924" alt="R_EMERGENCY" src="https://github.com/user-attachments/assets/cd7eed9c-0a94-4450-a28e-83531d94b9ba" />)
 
 **Primary Features:**
 - 📊 **Real-time Statistics** - Total scans, success rate, today's activity
