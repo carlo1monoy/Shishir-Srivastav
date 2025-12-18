@@ -13,7 +13,8 @@
 [Features](#-features) • [Screenshots](#-screenshots) • [Tech Stack](#%EF%B8%8F-tech-stack) • [Installation](#-installation)
 
 </div>
-
+Full_project_code Here!! https://github.com/carlo1monoy/Full_project_code
+Full Assets model,screenshot,etc: https://github.com/carlo1monoy/Monoy_InstantCoffee_Classification_FinalProject
 <br>
 
 ## 📖 About
@@ -180,7 +181,7 @@ dependencies:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/caffiolens.git
+git clone https://github.com/carlo1monoy/Full_project_code
 cd caffiolens
 
 # 2. Install dependencies
