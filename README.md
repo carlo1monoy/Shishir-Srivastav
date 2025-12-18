@@ -13,8 +13,7 @@
 [Features](#-features) • [Screenshots](#-screenshots) • [Tech Stack](#%EF%B8%8F-tech-stack) • [Installation](#-installation)
 
 </div>
-Full_project_code Here!! https://github.com/carlo1monoy/Full_project_code
-Full Assets model,screenshot,etc: https://github.com/carlo1monoy/Monoy_InstantCoffee_Classification_FinalProject
+
 <br>
 
 ## 📖 About
@@ -24,6 +23,35 @@ CaffioLens is an intelligent mobile application that uses **TensorFlow Lite AI**
 > 🎯 **94%+ accuracy** in coffee pack classification  
 > ⚡ **Under 2 seconds** processing time  
 > ☁️ **Cloud-synced** scan history
+
+<br>
+
+## 📦 Project Resources
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 💻 Full Project Code
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/carlo1monoy/Full_project_code)
+
+Complete Flutter source code including all Dart files, screens, and configurations.
+
+**[View Repository →](https://github.com/carlo1monoy/Full_project_code)**
+
+</td>
+<td align="center" width="50%">
+
+### 🎨 Assets & Resources
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/carlo1monoy/Monoy_InstantCoffee_Classification_FinalProject)
+
+TensorFlow Lite model, screenshots, training data, and all project assets.
+
+**[View Repository →](https://github.com/carlo1monoy/Monoy_InstantCoffee_Classification_FinalProject)**
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -181,7 +209,7 @@ dependencies:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/carlo1monoy/Full_project_code
+git clone https://github.com/yourusername/caffiolens.git
 cd caffiolens
 
 # 2. Install dependencies
