@@ -90,16 +90,34 @@
 <div align="center">
 
 ### 🏠 Home Screen
-<img src="https://github.com/user-attachments/assets/56fc7d8c-9c8f-4ff3-a65a-8da746eab709" width="400" alt="Home Screen">
+<img src="https://github.com/user-attachments/assets/56fc7d8c-9c8f-4ff3-a65a-8da746eab709" width="250" alt="Home Screen">
 
-*Dashboard showing statistics: Total Scans, Success Rate, and Today's Activity with recent scan history*
+**Functions:**
+- 📊 **Statistics Display**: Shows three key metrics in colorful cards
+  - Total number of scans performed
+  - Success rate percentage of identified coffee packs
+  - Today's scan count for daily tracking
+- 📜 **Recent Scans List**: Displays last 10 scans with:
+  - Coffee pack thumbnail images
+  - Identified coffee type name
+  - Confidence score badge
+  - Timestamp of each scan
+- 🧭 **Navigation Bar**: Quick access to all app sections
+- ⚡ **Real-time Updates**: Statistics update automatically from Firebase
 
 ---
 
 ### 📷 Camera Scanner
-<img src="https://github.com/user-attachments/assets/ba9815bd-3b3d-4d20-ad10-952e032a43b3" width="400" alt="Camera Scanner">
+<img src="https://github.com/user-attachments/assets/ba9815bd-3b3d-4d20-ad10-952e032a43b3" width="250" alt="Camera Scanner">
 
-*Live camera preview for scanning coffee packs with capture button and navigation options*
+**Functions:**
+- 📸 **Live Camera Preview**: Real-time viewfinder for accurate positioning
+- 🎯 **Capture Button**: Single tap to take photo of coffee pack
+- 🔄 **Camera Switch**: Toggle between front/back cameras
+- 🖼️ **Gallery Access**: Quick button to pick existing photos
+- 🔍 **Auto-focus**: Automatic focus for sharp, clear images
+- 💡 **Flash Control**: Enable/disable flash for low light conditions
+- 🧭 **Bottom Navigation**: Switch between app sections without losing camera state
 
 ---
 
@@ -109,25 +127,55 @@
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github.com/user-attachments/assets/748e1be9-41dc-46fe-ae32-78cf946cb879" width="300" alt="Scan Result 1">
+<img src="https://github.com/user-attachments/assets/748e1be9-41dc-46fe-ae32-78cf946cb879" width="200" alt="Scan Result 1">
+
+**Result Screen 1:**
+- ✅ Success indicator
+- Coffee type identified
+- High confidence score
+- Scan timestamp
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github.com/user-attachments/assets/c76f0f75-fbfa-4426-81ec-4b7df0a4aa96" width="300" alt="Scan Result 2">
+<img src="https://github.com/user-attachments/assets/c76f0f75-fbfa-4426-81ec-4b7df0a4aa96" width="200" alt="Scan Result 2">
+
+**Result Screen 2:**
+- 📊 Detailed analysis
+- Percentage accuracy
+- Save to history option
+- Scan again button
 
 </td>
 </tr>
 </table>
 
-*Classification results displaying identified coffee type with confidence percentage*
+**Functions:**
+- 🎯 **Coffee Identification**: AI-powered classification result
+- 📈 **Confidence Score**: Percentage showing prediction accuracy (0-100%)
+- 🖼️ **Image Preview**: Shows the captured/selected coffee pack image
+- 🕒 **Timestamp**: Date and time of the scan
+- 💾 **Auto-save**: Automatically saves result to Firebase history
+- 🔄 **Scan Again**: Quick button to perform another scan
+- 📜 **View History**: Navigate to see all past scans
+- ✅/❌ **Status Indicator**: Visual feedback for successful/failed identification
 
 ---
 
 ### 📜 Scan History
-<img src="https://github.com/user-attachments/assets/73413462-815b-4990-b173-55c41637afdb" width="400" alt="Scan History">
+<img src="https://github.com/user-attachments/assets/73413462-815b-4990-b173-55c41637afdb" width="250" alt="Scan History">
 
-*Complete history of all scans with timestamps, thumbnails, and confidence scores*
+**Functions:**
+- 📋 **Complete Scan Log**: Lists all previous coffee pack scans
+- 🖼️ **Thumbnail Previews**: Small image of each scanned coffee pack
+- 📊 **Confidence Badges**: Color-coded accuracy percentages
+  - Green badges for successful identifications
+  - Orange/red badges for low confidence scans
+- 🕒 **Timestamps**: Date and time for each scan entry
+- 🔍 **Search & Filter**: Find specific scans quickly
+- 🗑️ **Delete Option**: Remove individual scan records
+- 📈 **Statistics Summary**: Overall performance metrics at the top
+- ☁️ **Cloud Sync**: History synced with Firebase for data persistence
 
 </div>
 
