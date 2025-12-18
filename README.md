@@ -1,5 +1,8 @@
 # ☕ CaffioLens: Coffee Pack Identifier
 
+
+<img width="1916" height="924" alt="R_EMERGENCY" src="https://github.com/user-attachments/assets/cd7eed9c-0a94-4450-a28e-83531d94b9ba" />
+
 <div align="center">
 
 ![CaffioLens Banner](https://img.shields.io/badge/CaffioLens-Coffee%20Pack%20Scanner-6D4C41?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIgMjFoMTl2LTJIM3YtMTRoMnYxMmgxNFY3SDV6Ii8+PC9zdmc+)
