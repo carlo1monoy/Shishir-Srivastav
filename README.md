@@ -90,14 +90,14 @@
 <div align="center">
 
 ### 🏠 Home Screen
-![Home Screen](https://github.com/user-attachments/assets/56fc7d8c-9c8f-4ff3-a65a-8da746eab709)
+<img src="https://github.com/user-attachments/assets/56fc7d8c-9c8f-4ff3-a65a-8da746eab709" width="400" alt="Home Screen">
 
 *Dashboard showing statistics: Total Scans, Success Rate, and Today's Activity with recent scan history*
 
 ---
 
 ### 📷 Camera Scanner
-![Camera Scanner](https://github.com/user-attachments/assets/ba9815bd-3b3d-4d20-ad10-952e032a43b3)
+<img src="https://github.com/user-attachments/assets/ba9815bd-3b3d-4d20-ad10-952e032a43b3" width="400" alt="Camera Scanner">
 
 *Live camera preview for scanning coffee packs with capture button and navigation options*
 
@@ -107,14 +107,14 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-![Scan Result 1](https://github.com/user-attachments/assets/748e1be9-41dc-46fe-ae32-78cf946cb879)
+<img src="https://github.com/user-attachments/assets/748e1be9-41dc-46fe-ae32-78cf946cb879" width="300" alt="Scan Result 1">
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-![Scan Result 2](https://github.com/user-attachments/assets/c76f0f75-fbfa-4426-81ec-4b7df0a4aa96)
+<img src="https://github.com/user-attachments/assets/c76f0f75-fbfa-4426-81ec-4b7df0a4aa96" width="300" alt="Scan Result 2">
 
 </td>
 </tr>
@@ -125,7 +125,7 @@
 ---
 
 ### 📜 Scan History
-![Scan History](https://github.com/user-attachments/assets/73413462-815b-4990-b173-55c41637afdb)
+<img src="https://github.com/user-attachments/assets/73413462-815b-4990-b173-55c41637afdb" width="400" alt="Scan History">
 
 *Complete history of all scans with timestamps, thumbnails, and confidence scores*
 
