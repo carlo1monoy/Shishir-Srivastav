@@ -66,6 +66,7 @@ Automatic Firebase backup ensures your data is safe and accessible anywhere.
 | 🏠 Home Dashboard | 📷 Camera Scanner | ✅ Results | 📜 History |
 |:---:|:---:|:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/56fc7d8c-9c8f-4ff3-a65a-8da746eab709" width="180"> | <img src="https://github.com/user-attachments/assets/ba9815bd-3b3d-4d20-ad10-952e032a43b3" width="180"> | <img src="https://github.com/user-attachments/assets/748e1be9-41dc-46fe-ae32-78cf946cb879" width="180"> | <img src="https://github.com/user-attachments/assets/73413462-815b-4990-b173-55c41637afdb" width="180"> |
+| Real-time stats, recent scans, and quick navigation | Live camera preview with instant capture | AI classification results with confidence scores | Complete scan history with Firebase sync |
 
 </div>
 
